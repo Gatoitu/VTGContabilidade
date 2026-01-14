@@ -424,7 +424,7 @@ h1 {
   .cabecalho {
     flex-direction: column;
     text-align: center;
-    padding: 100px 0px 100px 0px;
+    padding: 40px 0px 40px 0px;
   }
 
   .foto-perfil {
@@ -511,4 +511,5 @@ h1 {
     width: 100%;
     height: auto;
   }
+
 }
